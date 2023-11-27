@@ -1,0 +1,16 @@
+{
+  "name": "trav-archive",
+  "description": "This repository houses a collection of fan-created game resources for the Traveller role-playing game.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "eleventy-sass": "^2.2.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
